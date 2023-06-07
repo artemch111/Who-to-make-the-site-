@@ -1,0 +1,195 @@
+.shapka {
+position: absolute;
+width: 1870px;
+height: 170px;
+left: 0px;
+top: 0px;
+
+background: #3AACFF;
+}
+
+.vop {
+position: absolute;
+width: 190px;
+height: 24px;
+left: 800px;
+top: 8px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 200;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+
+.soc {
+position: absolute;
+width: 109px;
+height: 27px;
+left: 840px;
+top: 32px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 200;
+font-size: 20px;
+line-height: 24px;
+text-decoration-line: underline;
+
+color: #000000;
+}
+
+.vk {
+position: absolute;
+width: 60px;
+height: 61px;
+left: 860px;
+top: 85px;
+
+background: url(vk.jpg);
+}
+
+.pry {
+position: absolute;
+width: 366px;
+height: 158px;
+left: 0px;
+top: 170px;
+
+background: #909BFE;
+}
+
+.pry2 {
+position: absolute;
+width: 291px;
+height: 100px;
+left: 32px;
+top: 10px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 200;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+
+.sca {
+position: absolute;
+width: 366px;
+height: 321px;
+left: 0px;
+top: 328px;
+
+background: #CCCCCC;
+}
+.sca2 {
+position: absolute;
+width: 232px;
+height: 127px;
+left: 32px;
+top: 10px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 200;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+
+.github {
+position: absolute;
+width: 103px;
+height: 103px;
+left: 32px;
+top: 160px;
+
+background: url(github.png);
+}
+
+.magaz {
+position: absolute;
+width: 1504px;
+height: 479px;
+left: 366px;
+top: 170px;
+
+background: #95C6FF;
+}
+
+.magaz2 {
+position: absolute;
+width: 881px;
+height: 443px;
+left: 386px;
+top: 10px;
+
+background: url(magaz.jpg);
+}
+
+.gde {
+position: absolute;
+width: 1096px;
+height: 110px;
+left: 360px;
+top: 719px;
+
+background: #FFF383;
+}
+
+.gde2 {
+position: absolute;
+width: 1013px;
+height: 72px;
+left: 50px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 200;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+
+.pod {
+position: absolute;
+width: 1870px;
+height: 174px;
+left: 0px;
+top: 876px;
+
+background: #3AACFF;
+}
+
+.pod2 {
+position: absolute;
+width: 105px;
+height: 24px;
+left: 860px;
+top: 10px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 200;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+
+.vk2 {
+position: absolute;
+width: 90px;
+height: 86px;
+left: 860px;
+top: 80px;
+    
+background: url(vk_2.jpg);
+}
